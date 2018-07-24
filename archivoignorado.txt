@@ -1,0 +1,1 @@
+creando archivos para ser ignorado en el gitignore
